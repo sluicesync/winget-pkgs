@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: sluice.exe
         PortableCommandAlias: sluice
     InstallerUrl: https://github.com/sluicesync/sluice/releases/download/v0.99.165/sluice_0.99.165_Windows_arm64.zip
-    InstallerSha256: 1861a4b3cbd63a78d3ec4efc6e84446f01deba625aff94c270b30cf74fefaeb2
+    InstallerSha256: 9b7f1fd4c300f93354489fa4bca133dbe92d7f277e989043a2502add35aed624
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: sluice.exe
         PortableCommandAlias: sluice
     InstallerUrl: https://github.com/sluicesync/sluice/releases/download/v0.99.165/sluice_0.99.165_Windows_x86_64.zip
-    InstallerSha256: e2a1704515e87373c724234a4d159ab82b39ff50520eea48fe93fb5a930822c2
+    InstallerSha256: 92da143903c2e54dd5babbfae3475455fa91a177c898e5e121ad8bd744f91432
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
